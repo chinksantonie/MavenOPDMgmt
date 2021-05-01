@@ -31,4 +31,7 @@ Sample project for Hospital management of outpatients using Spring MVC, Hibernat
 ### Patient - consultation fees
 ![pay_consultation_fees](https://github.com/chinksantonie/MavenOPDMgmt/blob/master/images/screenshots/13_recep_add_consultant.JPG)
 
+**Screen shot of all the pages available in below link:** <br/>
+[screenshots](https://github.com/chinksantonie/MavenOPDMgmt/tree/master/images/screenshots)
+
 *Note:- initial project - [OPDMgmt](https://github.com/chinksantonie/OPDMgmt) is converted into this Maven Project.*
