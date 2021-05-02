@@ -1,6 +1,6 @@
 # MavenOPDMgmt
 
-Sample project for Hospital management of outpatients using Spring MVC, Hibernate and Core Java using Maven.
+Sample project for Hospital management of outpatients using **Spring MVC, Hibernate and Core Java with Maven**.
 
 ## Architecture Diagram
 ![Architecture_Diagram](https://github.com/chinksantonie/MavenOPDMgmt/blob/master/images/architecture/architecture.png)
